@@ -3,13 +3,13 @@ package golang
 import (
 	"bytes"
 
-	"github.com/K-Phoen/jennifer/jen"
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/jennifer/jen"
+	"github.com/botanikanet/sdk"
 	"go.uber.org/zap"
 )
 
-const packageImportPath = "github.com/K-Phoen/grabana"
-const sdkImportPath = "github.com/K-Phoen/sdk"
+const packageImportPath = "github.com/botanikanet/grabana"
+const sdkImportPath = "github.com/botanikanet/sdk"
 
 type Encoder struct {
 	logger *zap.Logger

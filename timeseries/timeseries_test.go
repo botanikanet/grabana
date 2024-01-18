@@ -4,14 +4,14 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/links"
-	"github.com/K-Phoen/grabana/scheme"
-	"github.com/K-Phoen/grabana/target/stackdriver"
-	"github.com/K-Phoen/grabana/timeseries/axis"
-	"github.com/K-Phoen/grabana/timeseries/fields"
-	"github.com/K-Phoen/grabana/timeseries/threshold"
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/grabana/errors"
+	"github.com/botanikanet/grabana/links"
+	"github.com/botanikanet/grabana/scheme"
+	"github.com/botanikanet/grabana/target/stackdriver"
+	"github.com/botanikanet/grabana/timeseries/axis"
+	"github.com/botanikanet/grabana/timeseries/fields"
+	"github.com/botanikanet/grabana/timeseries/threshold"
+	"github.com/botanikanet/sdk"
 	"github.com/stretchr/testify/require"
 )
 

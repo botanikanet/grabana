@@ -1,8 +1,8 @@
 package decoder
 
 import (
-	"github.com/K-Phoen/grabana/row"
-	"github.com/K-Phoen/grabana/text"
+	"github.com/botanikanet/grabana/row"
+	"github.com/botanikanet/grabana/text"
 )
 
 type DashboardText struct {

@@ -1,11 +1,11 @@
 package alert
 
 import (
-	"github.com/K-Phoen/grabana/alert/queries/graphite"
-	"github.com/K-Phoen/grabana/alert/queries/influxdb"
-	"github.com/K-Phoen/grabana/alert/queries/loki"
-	"github.com/K-Phoen/grabana/alert/queries/prometheus"
-	"github.com/K-Phoen/grabana/alert/queries/stackdriver"
+	"github.com/botanikanet/grabana/alert/queries/graphite"
+	"github.com/botanikanet/grabana/alert/queries/influxdb"
+	"github.com/botanikanet/grabana/alert/queries/loki"
+	"github.com/botanikanet/grabana/alert/queries/prometheus"
+	"github.com/botanikanet/grabana/alert/queries/stackdriver"
 )
 
 // WithPrometheusQuery adds a prometheus query to the alert.

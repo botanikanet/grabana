@@ -3,7 +3,7 @@ package alertmanager
 import (
 	"testing"
 
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/sdk"
 	"github.com/stretchr/testify/require"
 )
 

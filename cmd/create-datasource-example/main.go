@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/K-Phoen/grabana"
-	"github.com/K-Phoen/grabana/datasource/prometheus"
+	"github.com/botanikanet/grabana"
+	"github.com/botanikanet/grabana/datasource/prometheus"
 )
 
 func main() {
