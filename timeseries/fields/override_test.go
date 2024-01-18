@@ -3,8 +3,8 @@ package fields
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/timeseries/axis"
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/grabana/timeseries/axis"
+	"github.com/botanikanet/sdk"
 	"github.com/stretchr/testify/require"
 )
 

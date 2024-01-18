@@ -9,8 +9,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/K-Phoen/grabana/dashboard"
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/grabana/dashboard"
+	"github.com/botanikanet/sdk"
 )
 
 // ErrDashboardNotFound is returned when the given dashboard can not be found.

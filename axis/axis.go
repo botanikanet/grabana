@@ -1,7 +1,7 @@
 package axis
 
 import (
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/sdk"
 )
 
 // Option represents an option that can be used to configure an axis.

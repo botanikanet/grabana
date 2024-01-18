@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/K-Phoen/grabana/datasource"
+	"github.com/botanikanet/grabana/datasource"
 )
 
 // ErrDatasourceNotFound is returned when the given datasource can not be found.

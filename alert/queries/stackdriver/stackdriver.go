@@ -3,7 +3,7 @@ package stackdriver
 import (
 	"time"
 
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/sdk"
 )
 
 const AlignmentStackdriverAuto = "stackdriver-auto"

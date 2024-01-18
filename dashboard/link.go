@@ -1,6 +1,6 @@
 package dashboard
 
-import "github.com/K-Phoen/sdk"
+import "github.com/botanikanet/sdk"
 
 type LinkIcon string
 

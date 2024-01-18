@@ -3,14 +3,14 @@ package timeseries
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/links"
-	"github.com/K-Phoen/grabana/scheme"
-	"github.com/K-Phoen/grabana/timeseries/axis"
-	"github.com/K-Phoen/grabana/timeseries/fields"
-	"github.com/K-Phoen/grabana/timeseries/threshold"
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/grabana/alert"
+	"github.com/botanikanet/grabana/errors"
+	"github.com/botanikanet/grabana/links"
+	"github.com/botanikanet/grabana/scheme"
+	"github.com/botanikanet/grabana/timeseries/axis"
+	"github.com/botanikanet/grabana/timeseries/fields"
+	"github.com/botanikanet/grabana/timeseries/threshold"
+	"github.com/botanikanet/sdk"
 )
 
 // Option represents an option that can be used to configure a graph panel.

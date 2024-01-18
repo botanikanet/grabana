@@ -3,7 +3,7 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/sdk"
 )
 
 func intPtr(input int) *int {

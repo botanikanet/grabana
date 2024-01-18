@@ -1,7 +1,7 @@
 package golang
 
 import (
-	"github.com/K-Phoen/jennifer/jen"
+	"github.com/botanikanet/jennifer/jen"
 )
 
 type RowIR struct {

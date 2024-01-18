@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/K-Phoen/grabana"
-	"github.com/K-Phoen/grabana/decoder"
+	"github.com/botanikanet/grabana"
+	"github.com/botanikanet/grabana/decoder"
 	"github.com/spf13/cobra"
 )
 

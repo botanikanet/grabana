@@ -1,7 +1,7 @@
 package fields
 
 import (
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/sdk"
 )
 
 type Matcher func(field *sdk.FieldConfigOverride)

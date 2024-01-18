@@ -3,10 +3,10 @@ package logs
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/links"
-	"github.com/K-Phoen/grabana/target/loki"
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/grabana/errors"
+	"github.com/botanikanet/grabana/links"
+	"github.com/botanikanet/grabana/target/loki"
+	"github.com/botanikanet/sdk"
 )
 
 // DedupStrategy represents a deduplication strategy.

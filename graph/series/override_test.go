@@ -3,8 +3,8 @@ package series
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/grabana/errors"
+	"github.com/botanikanet/sdk"
 	"github.com/stretchr/testify/require"
 )
 

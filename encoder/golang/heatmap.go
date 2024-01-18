@@ -3,8 +3,8 @@ package golang
 import (
 	"strconv"
 
-	"github.com/K-Phoen/jennifer/jen"
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/jennifer/jen"
+	"github.com/botanikanet/sdk"
 	"go.uber.org/zap"
 )
 

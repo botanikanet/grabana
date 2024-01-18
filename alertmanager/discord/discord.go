@@ -1,8 +1,8 @@
 package discord
 
 import (
-	"github.com/K-Phoen/grabana/alertmanager"
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/grabana/alertmanager"
+	"github.com/botanikanet/sdk"
 )
 
 // Option represents an option that can be used to configure a "discord"

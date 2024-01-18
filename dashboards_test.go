@@ -9,12 +9,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/dashboard"
-	"github.com/K-Phoen/grabana/row"
-	"github.com/K-Phoen/grabana/text"
-	"github.com/K-Phoen/grabana/timeseries"
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/grabana/alert"
+	"github.com/botanikanet/grabana/dashboard"
+	"github.com/botanikanet/grabana/row"
+	"github.com/botanikanet/grabana/text"
+	"github.com/botanikanet/grabana/timeseries"
+	"github.com/botanikanet/sdk"
 	"github.com/stretchr/testify/require"
 )
 

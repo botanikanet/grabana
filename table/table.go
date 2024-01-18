@@ -3,12 +3,12 @@ package table
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/links"
-	"github.com/K-Phoen/grabana/target/graphite"
-	"github.com/K-Phoen/grabana/target/influxdb"
-	"github.com/K-Phoen/grabana/target/prometheus"
-	"github.com/K-Phoen/sdk"
+	"github.com/botanikanet/grabana/errors"
+	"github.com/botanikanet/grabana/links"
+	"github.com/botanikanet/grabana/target/graphite"
+	"github.com/botanikanet/grabana/target/influxdb"
+	"github.com/botanikanet/grabana/target/prometheus"
+	"github.com/botanikanet/sdk"
 )
 
 // Option represents an option that can be used to configure a table panel.
